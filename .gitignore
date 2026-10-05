@@ -1,0 +1,7 @@
+.DS_Store
+.local-backups/
+**/build*/
+**/imgui.ini
+**/*.spv
+*.log
+publish-to-github.command
